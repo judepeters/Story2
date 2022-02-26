@@ -1,1 +1,2 @@
-This is a story.
+This is not a story.
+This is a message to you, the reader.
